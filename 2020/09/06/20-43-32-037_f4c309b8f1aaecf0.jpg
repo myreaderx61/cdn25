@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="nl" class="cookie-wall__html">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="robots" content="index,follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
+        <link rel="stylesheet" href="https://assets.hwigroup.net/build/css/main.css?bc8b9af7">
+        <script src="https://assets.hwigroup.net/build/js/cookiewall.js?e71b045a"></script>
+        <title>Hardware Info</title>
+        <link rel="shortcut icon" type="image/x-icon" href="https://nl.hardware.info/favicon.ico">
+<link rel="icon" type="image/png" href="https://assets.hwigroup.net/build/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://assets.hwigroup.net/build/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="apple-touch-icon" sizes="180x180" href="https://assets.hwigroup.net/build/images/favicons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://assets.hwigroup.net/build/images/favicons/safari-pinned-tab.svg" color="#00538c">
+<meta name="theme-color" content="#00538c">
+<link rel="icon" type="image/png" sizes="192x192" href="https://assets.hwigroup.net/build/images/favicons/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://assets.hwigroup.net/build/images/favicons/android-chrome-512x512.png">
+    </head>
+    <body class="cookie-wall__body" data-cmp-url="https://config-prod.choice.faktor.io/ec4dd53f-5731-40af-909f-c609b1960e3b/faktor.js">
+        <div class="cookie-wall__cookie-container">
+            <div class="cookie-wall__cookie-container__cookie">
+                <h1>Cookies op Hardware Info</h1>
+                <p><strong>Hardware Info maakt gebruik van cookies</strong></p>
+                <p>
+                    Hardware Info is onderdeel van DPG Media. Onze sites en apps gebruiken cookies, JavaScript en vergelijkbare technologie onder andere om je een optimale gebruikerservaring te bieden. Ook kunnen we hierdoor het gedrag van bezoekers vastleggen en analyseren, en deze informatie toevoegen aan bezoekersprofielen.
+                </p>
+                <p>
+                    Cookies kunnen worden gebruikt om op Hardware Info advertenties te tonen en artikelen aan te bevelen die aansluiten op je interesses. Ook derden kunnen je internetgedrag volgen, zoals bijvoorbeeld het geval is bij embedded video's van YouTube.
+                </p>
+                <p>
+                    Cookies kunnen gebruikt worden om op sites van derden relevante advertenties te tonen. Dankzij cookies van derde partijen kun je daarnaast informatie delen via sociale media, zoals Twitter en Facebook. Meer informatie hierover vind je op <a href="/extra/cookie">hardware.info/extra/cookies</a>.
+                </p>
+                <p>
+                    Om pagina's op Hardware Info te kunnen bekijken, moet je de cookies accepteren door op 'Ja, ik accepteer cookies' te klikken.
+                </p>
+                <button class="button button--primary" name="accept" id="decision" value="1" type="button">Ja, ik accepteer cookies</button>
+            </div>
+        </div>
+    </body>
+</html>
